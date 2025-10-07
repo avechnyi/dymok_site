@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Дымок — каталог</title>
+  <meta name="description" content="Дымок — витрина 18+. Категории: сигареты, вейпы, табак для кальяна, жидкости, аксессуары, сигариллы, трубки." />
+  <link rel="icon" href="favicon.png">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="header"><div class="container row">
+  <div class="logo">Дымок</div>
+  <nav>
+    <a href="index.html">Каталог</a>
+    <a href="articles/index.html">Статьи</a>
+    <a href="checkout.html">Оформление</a>
+    <a href="index.html#reviews">Отзывы</a>
+    <a href="checkout.html" class="cart-link">🛒 <span id="cartCount">0</span></a>
+  </nav>
+</div></header>
+
+<main class="container">
+  <section class="hero">
+    <h1>Каталог</h1>
+    <p class="muted">Только для лиц 18+. Есть фильтры по категориям, поиск и сортировка.</p>
+    <div class="search">
+      <input id="searchInput" placeholder="Поиск по названию…" />
+      <select id="sortSelect">
+        <option value="default">Сортировка</option>
+        <option value="priceAsc">Цена ↑</option>
+        <option value="priceDesc">Цена ↓</option>
+      </select>
+    </div>
+    <div class="tags" id="catTags"></div>
+  </section>
+
+  <section id="productsGrid" class="grid"></section>
+
+  <section id="reviews" class="card">
+    <h2>Отзывы</h2>
+    <div id="reviewsList"></div>
+  </section>
+</main>
+
+<footer class="container footer">
+  <small>© 2025 Дымок. 18+. Информация носит справочный характер.</small>
+</footer>
+
+<!-- Age gate -->
+<div id="ageGate" class="modal">
+  <div class="modal__card">
+    <h3>Подтверждение возраста</h3>
+    <p>Доступ к сайту возможен только с 18 лет. Подтвердите, что вам исполнилось 18.</p>
+    <div class="modal__actions">
+      <button id="ageYes" class="btn primary">Да, мне 18+</button>
+      <button id="ageNo" class="btn">Нет</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,466 @@
+[
+  {
+    "id": "p1",
+    "name": "Дымок Сигареты 1",
+    "price": 441,
+    "image": "https://source.unsplash.com/800x600/?cigarette,pack,tobacco&sig=1",
+    "category": "Сигареты",
+    "desc": "Сигареты. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p2",
+    "name": "Дымок Сигареты 2",
+    "price": 343,
+    "image": "https://source.unsplash.com/800x600/?cigarette,pack,tobacco&sig=2",
+    "category": "Сигареты",
+    "desc": "Сигареты. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p3",
+    "name": "Дымок Сигареты 3",
+    "price": 381,
+    "image": "https://source.unsplash.com/800x600/?cigarette,pack,tobacco&sig=3",
+    "category": "Сигареты",
+    "desc": "Сигареты. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p4",
+    "name": "Дымок Сигареты 4",
+    "price": 377,
+    "image": "https://source.unsplash.com/800x600/?cigarette,pack,tobacco&sig=4",
+    "category": "Сигареты",
+    "desc": "Сигареты. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p5",
+    "name": "Дымок Сигареты 5",
+    "price": 446,
+    "image": "https://source.unsplash.com/800x600/?cigarette,pack,tobacco&sig=5",
+    "category": "Сигареты",
+    "desc": "Сигареты. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p6",
+    "name": "Дымок Сигареты 6",
+    "price": 405,
+    "image": "https://source.unsplash.com/800x600/?cigarette,pack,tobacco&sig=6",
+    "category": "Сигареты",
+    "desc": "Сигареты. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p7",
+    "name": "Дымок Сигареты 7",
+    "price": 364,
+    "image": "https://source.unsplash.com/800x600/?cigarette,pack,tobacco&sig=7",
+    "category": "Сигареты",
+    "desc": "Сигареты. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p8",
+    "name": "Дымок Сигареты 8",
+    "price": 361,
+    "image": "https://source.unsplash.com/800x600/?cigarette,pack,tobacco&sig=8",
+    "category": "Сигареты",
+    "desc": "Сигареты. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p9",
+    "name": "Дымок Вейпы 1",
+    "price": 1228,
+    "image": "https://source.unsplash.com/800x600/?vape,device,pod&sig=9",
+    "category": "Вейпы / POD-системы",
+    "desc": "Вейпы / POD-системы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p10",
+    "name": "Дымок Вейпы 2",
+    "price": 1554,
+    "image": "https://source.unsplash.com/800x600/?vape,device,pod&sig=10",
+    "category": "Вейпы / POD-системы",
+    "desc": "Вейпы / POD-системы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p11",
+    "name": "Дымок Вейпы 3",
+    "price": 1693,
+    "image": "https://source.unsplash.com/800x600/?vape,device,pod&sig=11",
+    "category": "Вейпы / POD-системы",
+    "desc": "Вейпы / POD-системы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p12",
+    "name": "Дымок Вейпы 4",
+    "price": 1185,
+    "image": "https://source.unsplash.com/800x600/?vape,device,pod&sig=12",
+    "category": "Вейпы / POD-системы",
+    "desc": "Вейпы / POD-системы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p13",
+    "name": "Дымок Вейпы 5",
+    "price": 1573,
+    "image": "https://source.unsplash.com/800x600/?vape,device,pod&sig=13",
+    "category": "Вейпы / POD-системы",
+    "desc": "Вейпы / POD-системы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p14",
+    "name": "Дымок Вейпы 6",
+    "price": 986,
+    "image": "https://source.unsplash.com/800x600/?vape,device,pod&sig=14",
+    "category": "Вейпы / POD-системы",
+    "desc": "Вейпы / POD-системы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p15",
+    "name": "Дымок Вейпы 7",
+    "price": 1674,
+    "image": "https://source.unsplash.com/800x600/?vape,device,pod&sig=15",
+    "category": "Вейпы / POD-системы",
+    "desc": "Вейпы / POD-системы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p16",
+    "name": "Дымок Вейпы 8",
+    "price": 1318,
+    "image": "https://source.unsplash.com/800x600/?vape,device,pod&sig=16",
+    "category": "Вейпы / POD-системы",
+    "desc": "Вейпы / POD-системы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p17",
+    "name": "Дымок Табак 1",
+    "price": 569,
+    "image": "https://source.unsplash.com/800x600/?hookah,tobacco,shisha&sig=17",
+    "category": "Табак для кальяна",
+    "desc": "Табак для кальяна. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p18",
+    "name": "Дымок Табак 2",
+    "price": 870,
+    "image": "https://source.unsplash.com/800x600/?hookah,tobacco,shisha&sig=18",
+    "category": "Табак для кальяна",
+    "desc": "Табак для кальяна. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p19",
+    "name": "Дымок Табак 3",
+    "price": 552,
+    "image": "https://source.unsplash.com/800x600/?hookah,tobacco,shisha&sig=19",
+    "category": "Табак для кальяна",
+    "desc": "Табак для кальяна. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p20",
+    "name": "Дымок Табак 4",
+    "price": 694,
+    "image": "https://source.unsplash.com/800x600/?hookah,tobacco,shisha&sig=20",
+    "category": "Табак для кальяна",
+    "desc": "Табак для кальяна. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p21",
+    "name": "Дымок Табак 5",
+    "price": 663,
+    "image": "https://source.unsplash.com/800x600/?hookah,tobacco,shisha&sig=21",
+    "category": "Табак для кальяна",
+    "desc": "Табак для кальяна. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p22",
+    "name": "Дымок Табак 6",
+    "price": 789,
+    "image": "https://source.unsplash.com/800x600/?hookah,tobacco,shisha&sig=22",
+    "category": "Табак для кальяна",
+    "desc": "Табак для кальяна. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p23",
+    "name": "Дымок Табак 7",
+    "price": 913,
+    "image": "https://source.unsplash.com/800x600/?hookah,tobacco,shisha&sig=23",
+    "category": "Табак для кальяна",
+    "desc": "Табак для кальяна. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p24",
+    "name": "Дымок Табак 8",
+    "price": 843,
+    "image": "https://source.unsplash.com/800x600/?hookah,tobacco,shisha&sig=24",
+    "category": "Табак для кальяна",
+    "desc": "Табак для кальяна. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p25",
+    "name": "Дымок Жидкости 1",
+    "price": 624,
+    "image": "https://source.unsplash.com/800x600/?vape,liquid,e-juice,bottle&sig=25",
+    "category": "Жидкости для вейпов",
+    "desc": "Жидкости для вейпов. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p26",
+    "name": "Дымок Жидкости 2",
+    "price": 543,
+    "image": "https://source.unsplash.com/800x600/?vape,liquid,e-juice,bottle&sig=26",
+    "category": "Жидкости для вейпов",
+    "desc": "Жидкости для вейпов. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p27",
+    "name": "Дымок Жидкости 3",
+    "price": 612,
+    "image": "https://source.unsplash.com/800x600/?vape,liquid,e-juice,bottle&sig=27",
+    "category": "Жидкости для вейпов",
+    "desc": "Жидкости для вейпов. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p28",
+    "name": "Дымок Жидкости 4",
+    "price": 651,
+    "image": "https://source.unsplash.com/800x600/?vape,liquid,e-juice,bottle&sig=28",
+    "category": "Жидкости для вейпов",
+    "desc": "Жидкости для вейпов. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p29",
+    "name": "Дымок Жидкости 5",
+    "price": 635,
+    "image": "https://source.unsplash.com/800x600/?vape,liquid,e-juice,bottle&sig=29",
+    "category": "Жидкости для вейпов",
+    "desc": "Жидкости для вейпов. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p30",
+    "name": "Дымок Жидкости 6",
+    "price": 385,
+    "image": "https://source.unsplash.com/800x600/?vape,liquid,e-juice,bottle&sig=30",
+    "category": "Жидкости для вейпов",
+    "desc": "Жидкости для вейпов. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p31",
+    "name": "Дымок Жидкости 7",
+    "price": 678,
+    "image": "https://source.unsplash.com/800x600/?vape,liquid,e-juice,bottle&sig=31",
+    "category": "Жидкости для вейпов",
+    "desc": "Жидкости для вейпов. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p32",
+    "name": "Дымок Жидкости 8",
+    "price": 498,
+    "image": "https://source.unsplash.com/800x600/?vape,liquid,e-juice,bottle&sig=32",
+    "category": "Жидкости для вейпов",
+    "desc": "Жидкости для вейпов. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p33",
+    "name": "Дымок Аксессуары 1",
+    "price": 388,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=33",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p34",
+    "name": "Дымок Аксессуары 2",
+    "price": 519,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=34",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p35",
+    "name": "Дымок Аксессуары 3",
+    "price": 594,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=35",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p36",
+    "name": "Дымок Аксессуары 4",
+    "price": 296,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=36",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p37",
+    "name": "Дымок Аксессуары 5",
+    "price": 503,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=37",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p38",
+    "name": "Дымок Аксессуары 6",
+    "price": 423,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=38",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p39",
+    "name": "Дымок Аксессуары 7",
+    "price": 763,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=39",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p40",
+    "name": "Дымок Аксессуары 8",
+    "price": 686,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=40",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p41",
+    "name": "Дымок Аксессуары 9",
+    "price": 287,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=41",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p42",
+    "name": "Дымок Аксессуары 10",
+    "price": 518,
+    "image": "https://source.unsplash.com/800x600/?hookah,coal,accessories,lighter&sig=42",
+    "category": "Аксессуары",
+    "desc": "Аксессуары. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p43",
+    "name": "Дымок Сигариллы 1",
+    "price": 767,
+    "image": "https://source.unsplash.com/800x600/?cigarillo,cigar,tobacco&sig=43",
+    "category": "Сигариллы",
+    "desc": "Сигариллы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p44",
+    "name": "Дымок Сигариллы 2",
+    "price": 780,
+    "image": "https://source.unsplash.com/800x600/?cigarillo,cigar,tobacco&sig=44",
+    "category": "Сигариллы",
+    "desc": "Сигариллы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p45",
+    "name": "Дымок Сигариллы 3",
+    "price": 881,
+    "image": "https://source.unsplash.com/800x600/?cigarillo,cigar,tobacco&sig=45",
+    "category": "Сигариллы",
+    "desc": "Сигариллы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p46",
+    "name": "Дымок Сигариллы 4",
+    "price": 567,
+    "image": "https://source.unsplash.com/800x600/?cigarillo,cigar,tobacco&sig=46",
+    "category": "Сигариллы",
+    "desc": "Сигариллы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p47",
+    "name": "Дымок Сигариллы 5",
+    "price": 842,
+    "image": "https://source.unsplash.com/800x600/?cigarillo,cigar,tobacco&sig=47",
+    "category": "Сигариллы",
+    "desc": "Сигариллы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p48",
+    "name": "Дымок Сигариллы 6",
+    "price": 635,
+    "image": "https://source.unsplash.com/800x600/?cigarillo,cigar,tobacco&sig=48",
+    "category": "Сигариллы",
+    "desc": "Сигариллы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p49",
+    "name": "Дымок Сигариллы 7",
+    "price": 473,
+    "image": "https://source.unsplash.com/800x600/?cigarillo,cigar,tobacco&sig=49",
+    "category": "Сигариллы",
+    "desc": "Сигариллы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p50",
+    "name": "Дымок Сигариллы 8",
+    "price": 720,
+    "image": "https://source.unsplash.com/800x600/?cigarillo,cigar,tobacco&sig=50",
+    "category": "Сигариллы",
+    "desc": "Сигариллы. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p51",
+    "name": "Дымок Трубки 1",
+    "price": 2040,
+    "image": "https://source.unsplash.com/800x600/?tobacco,pipe,smoking pipe&sig=51",
+    "category": "Трубки",
+    "desc": "Трубки. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p52",
+    "name": "Дымок Трубки 2",
+    "price": 2790,
+    "image": "https://source.unsplash.com/800x600/?tobacco,pipe,smoking pipe&sig=52",
+    "category": "Трубки",
+    "desc": "Трубки. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p53",
+    "name": "Дымок Трубки 3",
+    "price": 1765,
+    "image": "https://source.unsplash.com/800x600/?tobacco,pipe,smoking pipe&sig=53",
+    "category": "Трубки",
+    "desc": "Трубки. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p54",
+    "name": "Дымок Трубки 4",
+    "price": 1761,
+    "image": "https://source.unsplash.com/800x600/?tobacco,pipe,smoking pipe&sig=54",
+    "category": "Трубки",
+    "desc": "Трубки. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p55",
+    "name": "Дымок Трубки 5",
+    "price": 3479,
+    "image": "https://source.unsplash.com/800x600/?tobacco,pipe,smoking pipe&sig=55",
+    "category": "Трубки",
+    "desc": "Трубки. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p56",
+    "name": "Дымок Трубки 6",
+    "price": 2924,
+    "image": "https://source.unsplash.com/800x600/?tobacco,pipe,smoking pipe&sig=56",
+    "category": "Трубки",
+    "desc": "Трубки. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p57",
+    "name": "Дымок Трубки 7",
+    "price": 2672,
+    "image": "https://source.unsplash.com/800x600/?tobacco,pipe,smoking pipe&sig=57",
+    "category": "Трубки",
+    "desc": "Трубки. Конкурентная цена. Упаковка стандартная. 18+."
+  },
+  {
+    "id": "p58",
+    "name": "Дымок Трубки 8",
+    "price": 1736,
+    "image": "https://source.unsplash.com/800x600/?tobacco,pipe,smoking pipe&sig=58",
+    "category": "Трубки",
+    "desc": "Трубки. Конкурентная цена. Упаковка стандартная. 18+."
+  }
+]

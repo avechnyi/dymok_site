@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Дымок — оформление заказа</title>
+  <link rel="icon" href="favicon.png">
+  <link rel="stylesheet" href="../styles.css" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="header"><div class="container row">
+  <div class="logo">Дымок</div>
+  <nav>
+    <a href="index.html">Каталог</a>
+    <a href="articles/index.html">Статьи</a>
+    <a href="checkout.html">Оформление</a>
+    <a href="index.html#reviews">Отзывы</a>
+    <a href="checkout.html" class="cart-link">🛒 <span id="cartCount">0</span></a>
+  </nav>
+</div></header>
+
+<main class="container">
+  <h1>Оформление заказа</h1>
+  <section id="cartView" class="card"></section>
+  <section class="card">
+    <h2>Контакты и доставка</h2>
+    <form id="orderForm" class="form">
+      <div class="grid-2">
+        <label>Имя* <input name="name" required /></label>
+        <label>Телефон* <input name="phone" required /></label>
+      </div>
+      <label>E-mail (для квитанции) <input type="email" name="email" /></label>
+      <label>Адрес доставки / комментарий
+        <textarea name="address" rows="3" placeholder="Город, улица, подъезд…"></textarea>
+      </label>
+      <label class="checkbox">
+        <input type="checkbox" name="age" required /> Мне исполнилось 18 лет
+      </label>
+      <div class="form-actions">
+        <button type="button" class="btn" id="clearCart">Очистить корзину</button>
+        <button type="submit" class="btn primary">Отправить заказ</button>
+      </div>
+      <p class="muted">Оплата и способ доставки согласовываются после подтверждения заказа менеджером.</p>
+    </form>
+  </section>
+</main>
+<footer class="container footer"><small>© 2025 Дымок • 18+</small></footer>
+<script src="app.js"></script>
+</body>
+</html>
