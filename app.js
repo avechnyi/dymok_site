@@ -32,3 +32,27 @@ ${a.join('\n')}
 ИТОГО: ${cart.total()}₽`;const o="orders@dymok.local",d=`mailto:${encodeURIComponent(o)}?subject=${encodeURIComponent('Заказ с сайта «Дымок»')}&body=${encodeURIComponent(r)}`,c="";c?(window.open(c,'_blank'),location.href='thankyou.html'):(location.href=d,setTimeout(()=>location.href='thankyou.html',500)),cart.clear()})}
 function ageGateInit(){const e=document.getElementById('ageGate');if(!e)return;const t=localStorage.getItem('age_ok_v1');"1"===t?e.style.display='none':(document.getElementById('ageYes').onclick=()=>{localStorage.setItem('age_ok_v1','1'),e.style.display='none'},document.getElementById('ageNo').onclick=()=>{location.href='https://www.google.com'})}
 async function renderReviews(){const e=await(await fetch('reviews.json')).json(),t=document.getElementById('reviewsList');t.innerHTML=e.map(e=>`<div class="review"><div class="avatar"></div><div><strong>${e.name}</strong><div>{"★".repeat(e.rating)}${"☆".repeat(5-e.rating)}</div><div>${e.text}</div></div></div>`).join('')}
+// Проверка возраста 18+
+document.addEventListener("DOMContentLoaded", () => {
+  const ageModal = document.getElementById('ageModal');
+  const ageConfirm = document.getElementById('ageConfirm');
+  const ageDeny = document.getElementById('ageDeny');
+
+  // Проверяем сохранённое подтверждение
+  if (!localStorage.getItem('ageConfirmed')) {
+    ageModal.style.display = 'flex';
+  }
+
+  // Нажатие "Да, мне 18+"
+  ageConfirm.addEventListener('click', () => {
+    localStorage.setItem('ageConfirmed', 'true');
+    ageModal.style.display = 'none';
+  });
+
+  // Нажатие "Нет"
+  ageDeny.addEventListener('click', () => {
+    alert('Доступ запрещён. Сайт только для пользователей 18+. ');
+    window.location.href = 'https://google.com';
+  });
+});
+
